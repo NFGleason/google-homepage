@@ -182,8 +182,12 @@ footer a:hover {
     color: #70757a;
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
-    body {
-        background-color: blue;
+@media (max-width: 980px) {
+    #searchimage {
+        padding-left: 212px;
+    }
+
+    #microphoneimage {
+        margin-right: 212px;
     }
 }
