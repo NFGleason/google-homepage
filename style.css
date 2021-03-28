@@ -182,7 +182,7 @@ footer a:hover {
     color: #70757a;
 }
 
-@media only screen and (max-width: 320px) {
+@media (min-width: 320px) and (max-width: 480px) {
     body {
         background-color: blue;
     }
