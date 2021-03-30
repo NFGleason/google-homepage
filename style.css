@@ -191,3 +191,13 @@ footer a:hover {
         margin-right: 212px;
     }
 }
+
+@media (min-width: 1920px) {
+    #searchimage {
+        padding-left: 680px;
+    }
+
+    #microphoneimage {
+        margin-right: 680px;
+    }
+}
